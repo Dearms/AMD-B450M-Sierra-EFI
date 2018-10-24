@@ -1,0 +1,4 @@
+# AMD-B450M-Sierra-EFI
+2600x
+b450m
+Rx580
